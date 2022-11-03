@@ -11,9 +11,9 @@
 
 | Methods  | Endpoints             | Description                                                           |
 | :------- | :-------------------  | :---------------------------------------------------------------------|                                                
-| `GET`    | /posts               | Find All data barang                                                   |
-| `GET`    | /posts/:id           | Find By Id data barang                                                 |
-| `POST`   | /posts               | Create data barang                                                     |
-| `PUT`    | /posts/:id           | Update data barang                                                     |
-| `DELETE` | /posts/:id           | Delete data barang By Id                                               |
+| `GET`    | /posts               | Find All data                                                          |
+| `GET`    | /posts/:id           | Find By Id data                                                        |
+| `POST`   | /posts               | Create data                                                            |
+| `PUT`    | /posts/:id           | Update data                                                            |
+| `DELETE` | /posts/:id           | Delete data By Id                                                      |
  
